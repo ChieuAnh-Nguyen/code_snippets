@@ -19,6 +19,10 @@ def send_email(login_email, login_password, msg):
         smpt.send_message(msg)
 
 
-if __name__ == "__main__":
+def main():
     msg = create_email("Test Subject", email_address, email_address, "Test Body")
     send_email(email_address, email_password, msg)
+
+
+if __name__ == "__main__":
+    main()
