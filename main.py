@@ -1,5 +1,5 @@
 import smtplib
-from config import email_address, email_password
+from email_credentials import email_address, email_password
 from email.message import EmailMessage
 
 
