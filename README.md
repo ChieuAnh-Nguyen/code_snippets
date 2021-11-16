@@ -1,3 +1,3 @@
-# code_snippets
+# My Code Snippets 🤏
 
-Creating some useful modules in here.
+Access some of my useful modules here!
